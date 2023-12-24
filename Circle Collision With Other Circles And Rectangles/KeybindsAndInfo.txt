@@ -1,0 +1,24 @@
+Simulation Description
+
+	Simulates perfect collision between circle VS circle and circle VS rectangle.
+	However, it doesn't handle rectangle movement. 
+
+
+
+Keybinds
+
+	R - Restart
+
+	Y - Spawn A Circle
+	U - Spawn A Box
+
+	W,A,S,D - Manual Control Over Circle Movement
+
+	T - Give All Circles Random Velocity
+
+	Left Mouse Button - All Circles Move To Mouse
+	Right Mouse Button - All Circles Move Away From Mouse
+
+	F - Toggle Circle Collision Lines
+	G - Toggle Box Collision Lines
+	H - Toggle Velocity Lines
