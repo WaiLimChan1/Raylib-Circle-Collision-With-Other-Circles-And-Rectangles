@@ -5,4 +5,4 @@
 
 [<img align="left" alt="WaiLimChan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" /> **Download Here**][itch.io]
 
-[Itch.io]: https://wailimchan.itch.io/raylib-circle-vs-rectangle-collision
+[Itch.io]: https://wailimchan.itch.io/raylib-circle-vs-rectangle-collision 
